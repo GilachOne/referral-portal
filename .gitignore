@@ -1,0 +1,8 @@
+# ключи и данные не публикуем
+app/.env
+app/*.env
+app/data/
+*.sqlite
+*.sqlite-*
+*.cookies
+*.log
