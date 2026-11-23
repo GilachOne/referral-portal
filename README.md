@@ -4,6 +4,21 @@
 
 Проект в боевой эксплуатации. Это публичная копия: название школы, домены, телефоны и ключи убраны или заменены на примеры.
 
+## Скриншоты
+
+Экраны на вымышленных данных.
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/screenshots/1-login.png" width="220" alt="Вход"><br>Вход по номеру, код звонком</td>
+    <td align="center"><img src="docs/screenshots/2-home.png" width="220" alt="Кабинет участника"><br>Кабинет: ссылка и статусы друзей</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/screenshots/3-payout.png" width="220" alt="Заявка на выплату"><br>Заявка на вознаграждение</td>
+    <td align="center"><img src="docs/screenshots/4-channels.png" width="220" alt="Каналы"><br>Админка: каналы и A/B-тест SMS</td>
+  </tr>
+</table>
+
 ## Что умеет
 
 **Для участника**
